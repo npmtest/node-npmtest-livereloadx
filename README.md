@@ -1,4 +1,7 @@
-# test coverage for  [livereloadx (v0.3.9)](https://github.com/nitoyon/livereloadx#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-livereloadx.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-livereloadx) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-livereloadx.svg)](https://travis-ci.org/npmtest/node-npmtest-livereloadx)
+# npmtest-livereloadx
+
+#### basic test coverage for  [livereloadx (v0.3.9)](https://github.com/nitoyon/livereloadx#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-livereloadx.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-livereloadx) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-livereloadx.svg)](https://travis-ci.org/npmtest/node-npmtest-livereloadx)
+
 #### An implementation of the LiveReload 2 server in Node.js
 
 [![NPM](https://nodei.co/npm/livereloadx.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/livereloadx)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-livereloadx/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-livereloadx/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-livereloadx/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-livereloadx/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-livereloadx/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-livereloadx/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-livereloadx/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-livereloadx/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-livereloadx/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-livereloadx/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-livereloadx/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-livereloadx/build/coverage.html/index.html)
 
